@@ -1,7 +1,3 @@
-Todo:  
-create notebooks with empty solutions
-
-
 # Workshop: AI Engineering with Google Gemini 2.5
 
 This workshop teaches how to build advanced AI applications with the Google Gemini 2.5 model family, focusing on practical engineering skills for building agentic AI systems.
